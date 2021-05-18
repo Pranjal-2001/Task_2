@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671689610027",
+    "project_id": "task--2-cb98c",
+    "storage_bucket": "task--2-cb98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671689610027:android:97606ed4b9471a0b406b6e",
+        "android_client_info": {
+          "package_name": "com.pranjal.io.task_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671689610027-35kf4uen8r44o709vuivkp5r9atglqh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbMGL9siVp4XRicPQUU18p1G9jAex_wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671689610027-35kf4uen8r44o709vuivkp5r9atglqh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
